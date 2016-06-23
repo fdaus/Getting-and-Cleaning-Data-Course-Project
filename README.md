@@ -7,4 +7,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The end result is shown in the file `tidy.txt`.
+The end result is shown in the file `data_tidy.txt`.
